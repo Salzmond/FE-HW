@@ -1,0 +1,69 @@
+#Header {
+    text-align: center;
+    color: #00695C;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    letter-spacing: 5px;
+    line-height: 20px;
+}
+
+span {
+    color: #004D40;
+}
+
+#Diving {
+    border: 2px solid #4DB6AC;
+    padding: 10px;
+    background-color: #B2DFDB;
+    line-height: 10px;
+    margin: 20px;
+    padding: 25px;
+}
+
+#Pic {
+    width: 250px;
+    height: 100px;
+}
+
+h2 {
+    font-size: x-large;
+    color: #00695C;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+}
+
+a {
+    color: #00695C;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#IT {
+    border: 2px solid #4DB6AC;
+    padding: 10px;
+    background-color: #B2DFDB;
+    line-height: 10px;
+    margin: 20px;
+    padding: 25px;
+}
+
+#Friends {
+    border: 2px solid #4DB6AC;
+    padding: 10px;
+    background-color: #B2DFDB;
+    line-height: 10px;
+    margin: 20px;
+    padding: 25px;
+}
+
+#Futter {
+    border: 2px solid #4DB6AC;
+    padding: 10px;
+    background-color: #B2DFDB;
+    margin: 20px;
+
+}
+
+#Pic2 {
+    width: 15px;
+
+}
